@@ -10,14 +10,14 @@
 
 ## General info
 Python from the scratch. This repository contains an exercises from www.flynerd.pl site.  
-* 1. Basics
-* 2. **input** Function
-* 3. Formating
-* 4. Data and Variables
-* 5. String Formating
-* 6. **if** Statements
-* 7. **for** Statements
-* 8. **while** and **range** Function
+1. Basics
+2. *input* Function
+3. Formating
+4. Data and Variables
+5. String Formating
+6. *if* Statements
+7. *for* Statements
+8. *while* and *range* Function
 
 ## Technologies
 * Python - version 3.8.1
